@@ -73,4 +73,8 @@ To install on Ubuntu >= 12.04
 	make
 	sudo make install
 
+For Ubuntu == 10.04, you will also need to do
+
+	sudo apt-get install libid3tag0-dev
+
 You can then fire it up with `pianobar`
